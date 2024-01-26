@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RazorViewsExcercise.props" />
+</Project>

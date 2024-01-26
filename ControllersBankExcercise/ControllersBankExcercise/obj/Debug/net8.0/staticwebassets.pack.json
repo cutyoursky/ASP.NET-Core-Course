@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Another\\Desktop\\C# TRAINING\\ControllersBankExcercise\\ControllersBankExcercise\\wwwroot\\report.pdf",
+      "PackagePath": "staticwebassets\\report.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ControllersBankExcercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ControllersBankExcercise.props",
+      "PackagePath": "build\\ControllersBankExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ControllersBankExcercise.props",
+      "PackagePath": "buildMultiTargeting\\ControllersBankExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ControllersBankExcercise.props",
+      "PackagePath": "buildTransitive\\ControllersBankExcercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

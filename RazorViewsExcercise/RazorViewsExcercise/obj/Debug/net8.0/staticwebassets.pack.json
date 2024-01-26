@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\RazorViewsExcercise\\RazorViewsExcercise\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RazorViewsExcercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RazorViewsExcercise.props",
+      "PackagePath": "build\\RazorViewsExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorViewsExcercise.props",
+      "PackagePath": "buildMultiTargeting\\RazorViewsExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RazorViewsExcercise.props",
+      "PackagePath": "buildTransitive\\RazorViewsExcercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

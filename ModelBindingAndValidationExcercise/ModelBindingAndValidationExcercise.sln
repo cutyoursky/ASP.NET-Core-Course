@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBindingAndValidationExcercise", "ModelBindingAndValidationExcercise\ModelBindingAndValidationExcercise.csproj", "{8DA4C9E0-7863-4CBD-BDFC-EB796EC48D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA4C9E0-7863-4CBD-BDFC-EB796EC48D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA4C9E0-7863-4CBD-BDFC-EB796EC48D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA4C9E0-7863-4CBD-BDFC-EB796EC48D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA4C9E0-7863-4CBD-BDFC-EB796EC48D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A7574E-0B40-49EB-A9C0-65010E44842C}
+	EndGlobalSection
+EndGlobal

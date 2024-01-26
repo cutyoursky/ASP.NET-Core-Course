@@ -1,0 +1,73 @@
+﻿body
+{
+    background-color: aliceblue;
+}
+
+
+#all-panels 
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.weather-panel
+{
+    width: 500px;
+    display: flex;
+    padding: 20px 10px 20px 10px;
+    margin-right: 40px;
+    border-radius: 10px; 
+    border: 2px solid gray;
+}
+.left-part
+{
+    max-width: 50%;
+    border-right: 2px solid grey;
+    flex: 1;
+
+}
+.right-part
+{
+    padding-left: 30px;
+    flex: 1;
+}
+.city-time
+{
+    color: gray;
+}
+.city-details
+{
+    text-decoration: none;
+}
+.city-name
+{
+    margin-top: 0px;
+}
+.blue-background
+{
+    background-color: aqua;
+}
+.green-background
+{
+    background-color: limegreen;
+}
+.orange-background
+{
+    background-color: darkorange;
+}
+
+#city-center
+{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.back-to-home 
+{
+    text-decoration: none;
+}
+#down
+{
+    text-align: center;
+}

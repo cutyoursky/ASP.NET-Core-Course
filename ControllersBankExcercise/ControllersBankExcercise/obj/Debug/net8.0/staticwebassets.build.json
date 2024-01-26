@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rnnTfJ2A9LWpWZuE+kfOiHzCb2CMepSMhmkEyTL/MF0=",
+  "Source": "ControllersBankExcercise",
+  "BasePath": "_content/ControllersBankExcercise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllersBankExcercise\\wwwroot",
+      "Source": "ControllersBankExcercise",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\C# TRAINING\\ControllersBankExcercise\\ControllersBankExcercise\\wwwroot\\",
+      "BasePath": "_content/ControllersBankExcercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Another\\Desktop\\C# TRAINING\\ControllersBankExcercise\\ControllersBankExcercise\\wwwroot\\report.pdf",
+      "SourceId": "ControllersBankExcercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\C# TRAINING\\ControllersBankExcercise\\ControllersBankExcercise\\wwwroot\\",
+      "BasePath": "_content/ControllersBankExcercise",
+      "RelativePath": "report.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\report.pdf"
+    }
+  ]
+}

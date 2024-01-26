@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# IDE0058: Expression value is never used
+csharp_style_unused_value_expression_statement_preference = unused_local_variable
+
+# Default severity for analyzer diagnostics with category 'Usage'
+dotnet_analyzer_diagnostic.category-Usage.severity = none
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = none
+
+# Default severity for analyzer diagnostics with category 'Style'
+dotnet_analyzer_diagnostic.category-Style.severity = none

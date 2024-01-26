@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CityWeather>;
+
+@{
+    string GetColorByTemperature(int temperature)
+    {
+        if(temperature < 44)
+        {
+            return "blue-background";
+        }
+        else if(temperature >= 44 && temperature <= 75)
+        {
+            return "green-background";
+        }
+        else
+        {
+            return "orange-background";
+        }
+    }
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width"? />
+        <title>Weather</title>
+        <link rel="stylesheet" href="~/styles.css" />
+    </head>
+    <body>
+        <div id="container">
+            <div id="top">
+                <h1>Weather</h1>
+            </div>
+            <div id="center">
+                <div id="all-panels">
+                @{
+                    foreach(CityWeather city in Model)
+                    {
+                        <div class="weather-panel @GetColorByTemperature(city.TemperatureFahrenheit)">
+                            <div class="left-part">
+                                <h2 class="city-name">@city.CityName</h2>
+                                <h3 class="city-time">@city.DateAndTime.ToString("hh:mm tt")</h3>
+                                <a href="~/weather/@city.CityUniqueCode" class="city-details">Details</a>
+                            </div>
+                            <div class="right-part">
+                                <h1>@city.TemperatureFahrenheit &#8457 </h1>
+                            </div>
+                        </div>
+                    }
+                }
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

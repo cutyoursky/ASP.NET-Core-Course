@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LayoutViewsExcercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LayoutViewsExcercise.props",
+      "PackagePath": "build\\LayoutViewsExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LayoutViewsExcercise.props",
+      "PackagePath": "buildMultiTargeting\\LayoutViewsExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LayoutViewsExcercise.props",
+      "PackagePath": "buildTransitive\\LayoutViewsExcercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

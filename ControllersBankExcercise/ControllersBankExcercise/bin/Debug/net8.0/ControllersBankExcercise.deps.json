@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControllersBankExcercise/1.0.0": {
+        "runtime": {
+          "ControllersBankExcercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControllersBankExcercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
