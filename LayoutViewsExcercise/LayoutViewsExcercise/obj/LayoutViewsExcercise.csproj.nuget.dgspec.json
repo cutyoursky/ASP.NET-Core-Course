@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj": {}
+    "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj": {
+    "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj",
+        "projectUniqueName": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj",
         "projectName": "LayoutViewsExcercise",
-        "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj",
+        "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\LayoutViewsExcercise.csproj",
         "packagesPath": "C:\\Users\\Another\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\obj\\",
+        "outputPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

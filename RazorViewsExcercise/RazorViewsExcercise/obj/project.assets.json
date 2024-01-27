@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\RazorViewsExcercise\\RazorViewsExcercise\\RazorViewsExcercise.csproj",
+      "projectUniqueName": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\RazorViewsExcercise\\RazorViewsExcercise\\RazorViewsExcercise.csproj",
       "projectName": "RazorViewsExcercise",
-      "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\RazorViewsExcercise\\RazorViewsExcercise\\RazorViewsExcercise.csproj",
+      "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\RazorViewsExcercise\\RazorViewsExcercise\\RazorViewsExcercise.csproj",
       "packagesPath": "C:\\Users\\Another\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\RazorViewsExcercise\\RazorViewsExcercise\\obj\\",
+      "outputPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\RazorViewsExcercise\\RazorViewsExcercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

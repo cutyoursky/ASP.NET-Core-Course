@@ -1,0 +1,26 @@
+﻿@model CityWeather;
+@{
+    if (Model != null)
+    {
+        ViewBag.Title = Model.CityName + " City Weather";
+    }
+}
+
+        
+        @if (Model != null)
+        {
+            <div id="city-center">
+
+               <partial name="_WeatherPartialView" model="Model"/>
+
+            </div>
+
+            <div id="down">
+                <a href="~/" class="back-to-home">Back to Weather Home Page</a>
+            </div>
+        }
+        else
+        {
+            <h1>City Code is invalid.</h1>
+        }
+    

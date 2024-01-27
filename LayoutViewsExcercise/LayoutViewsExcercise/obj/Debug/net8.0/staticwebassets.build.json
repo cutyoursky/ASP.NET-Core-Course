@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oimDyl3w5yc0GEVoYRWsbc9r9iPZXapoK1haG/EofQM=",
+  "Hash": "1d6qbNbg8GVE3VuTeNV1oLsQ3+Ic/WuDqjd9r4JT8aY=",
   "Source": "LayoutViewsExcercise",
   "BasePath": "_content/LayoutViewsExcercise",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LayoutViewsExcercise\\wwwroot",
       "Source": "LayoutViewsExcercise",
-      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\wwwroot\\",
       "BasePath": "_content/LayoutViewsExcercise",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\wwwroot\\styles.css",
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\wwwroot\\styles.css",
       "SourceId": "LayoutViewsExcercise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\LayoutViewsExcercise\\LayoutViewsExcercise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\LayoutViewsExcercise\\LayoutViewsExcercise\\wwwroot\\",
       "BasePath": "_content/LayoutViewsExcercise",
       "RelativePath": "styles.css",
       "AssetKind": "All",

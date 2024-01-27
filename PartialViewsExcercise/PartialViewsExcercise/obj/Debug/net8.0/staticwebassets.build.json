@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "EJFRwnaPy6ky0y3+29lOBOmHsaeYKWC1dzPrVduocdc=",
+  "Source": "PartialViewsExcercise",
+  "BasePath": "_content/PartialViewsExcercise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewsExcercise\\wwwroot",
+      "Source": "PartialViewsExcercise",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\PartialViewsExcercise\\PartialViewsExcercise\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExcercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\PartialViewsExcercise\\PartialViewsExcercise\\wwwroot\\styles.css",
+      "SourceId": "PartialViewsExcercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\PartialViewsExcercise\\PartialViewsExcercise\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExcercise",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
