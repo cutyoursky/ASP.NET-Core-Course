@@ -1,0 +1,11 @@
+﻿@model IEnumerable<City> 
+@{
+    ViewBag.Title = "Weather";
+}
+
+<div id="all-panels">
+    @foreach(City city in Model)
+    {
+        @await Component.InvokeAsync("City", new { City = city });
+    }
+</div>
