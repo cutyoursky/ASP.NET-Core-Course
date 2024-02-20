@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Another\\Desktop\\C# TRAINING\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise.csproj",
+      "projectUniqueName": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise.csproj",
       "projectName": "ModelBindingAndValidationExcercise",
-      "projectPath": "C:\\Users\\Another\\Desktop\\C# TRAINING\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise.csproj",
+      "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise.csproj",
       "packagesPath": "C:\\Users\\Another\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Another\\Desktop\\C# TRAINING\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise\\obj\\",
+      "outputPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ModelBindingAndValidationExcercise\\ModelBindingAndValidationExcercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Another\\Desktop\\C# TRAINING\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj": {}
+    "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Another\\Desktop\\C# TRAINING\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj": {
+    "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Another\\Desktop\\C# TRAINING\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj",
+        "projectUniqueName": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj",
         "projectName": "MiddlewareLoginExcercise",
-        "projectPath": "C:\\Users\\Another\\Desktop\\C# TRAINING\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj",
+        "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise.csproj",
         "packagesPath": "C:\\Users\\Another\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Another\\Desktop\\C# TRAINING\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\obj\\",
+        "outputPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MiddlewareLoginExcercise\\MiddlewareLoginExcercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
