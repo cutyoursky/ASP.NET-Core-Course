@@ -23,3 +23,6 @@ C:\Users\Another\Desktop\C# TRAINING\MiddlewareLoginExcercise\MiddlewareLoginExc
 C:\Users\Another\Desktop\C# TRAINING\MiddlewareLoginExcercise\MiddlewareLoginExcercise\obj\Debug\net8.0\MiddlewareLoginExcercise.pdb
 C:\Users\Another\Desktop\C# TRAINING\MiddlewareLoginExcercise\MiddlewareLoginExcercise\obj\Debug\net8.0\MiddlewareLoginExcercise.genruntimeconfig.cache
 C:\Users\Another\Desktop\C# TRAINING\MiddlewareLoginExcercise\MiddlewareLoginExcercise\obj\Debug\net8.0\ref\MiddlewareLoginExcercise.dll
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\MiddlewareLoginExcercise\MiddlewareLoginExcercise\obj\Debug\net8.0\MiddlewareLoginExcercise.dll
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\MiddlewareLoginExcercise\MiddlewareLoginExcercise\obj\Debug\net8.0\refint\MiddlewareLoginExcercise.dll
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\MiddlewareLoginExcercise\MiddlewareLoginExcercise\obj\Debug\net8.0\MiddlewareLoginExcercise.pdb

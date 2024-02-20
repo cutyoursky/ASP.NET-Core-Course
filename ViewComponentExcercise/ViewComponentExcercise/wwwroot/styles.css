@@ -58,6 +58,7 @@
 
 #city-center
 {
+    display: flex;
     margin-top: 150px;
     justify-content: center;
     margin-bottom: 20px;
