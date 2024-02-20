@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "TT5z5g368xBcYG+ICanxBdfjf7NnBLXhcRZSFMmkg9w=",
+  "Source": "DependencyInjectionExcercise",
+  "BasePath": "_content/DependencyInjectionExcercise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DependencyInjectionExcercise\\wwwroot",
+      "Source": "DependencyInjectionExcercise",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\DependencyInjectionExcercise\\wwwroot\\",
+      "BasePath": "_content/DependencyInjectionExcercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\DependencyInjectionExcercise\\wwwroot\\styles.css",
+      "SourceId": "DependencyInjectionExcercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\DependencyInjectionExcercise\\wwwroot\\",
+      "BasePath": "_content/DependencyInjectionExcercise",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

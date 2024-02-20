@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\DependencyInjectionExcercise\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DependencyInjectionExcercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DependencyInjectionExcercise.props",
+      "PackagePath": "build\\DependencyInjectionExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DependencyInjectionExcercise.props",
+      "PackagePath": "buildMultiTargeting\\DependencyInjectionExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DependencyInjectionExcercise.props",
+      "PackagePath": "buildTransitive\\DependencyInjectionExcercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

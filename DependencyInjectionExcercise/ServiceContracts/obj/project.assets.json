@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DependencyInjectionExcercise/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DependencyInjectionExcercise.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DependencyInjectionExcercise.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "DependencyInjectionExcercise/1.0.0": {
+      "type": "project",
+      "path": "../DependencyInjectionExcercise/DependencyInjectionExcercise.csproj",
+      "msbuildProject": "../DependencyInjectionExcercise/DependencyInjectionExcercise.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DependencyInjectionExcercise >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Another\\.nuget\\packages\\": {},
+    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\ServiceContracts\\ServiceContracts.csproj",
+      "projectName": "ServiceContracts",
+      "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\ServiceContracts\\ServiceContracts.csproj",
+      "packagesPath": "C:\\Users\\Another\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\ServiceContracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Another\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\DependencyInjectionExcercise\\DependencyInjectionExcercise.csproj": {
+              "projectPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\DependencyInjectionExcercise\\DependencyInjectionExcercise\\DependencyInjectionExcercise.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
