@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\SocialMediaExcercise\\SocialMediaExcercise\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SocialMediaExcercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SocialMediaExcercise.props",
+      "PackagePath": "build\\SocialMediaExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialMediaExcercise.props",
+      "PackagePath": "buildMultiTargeting\\SocialMediaExcercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SocialMediaExcercise.props",
+      "PackagePath": "buildTransitive\\SocialMediaExcercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

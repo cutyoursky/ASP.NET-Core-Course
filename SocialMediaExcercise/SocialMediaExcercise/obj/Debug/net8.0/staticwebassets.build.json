@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "bNw2fvvxfaHro7kbcIAPkDQO0IeEeQMv+Qdwarr2UWE=",
+  "Source": "SocialMediaExcercise",
+  "BasePath": "_content/SocialMediaExcercise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SocialMediaExcercise\\wwwroot",
+      "Source": "SocialMediaExcercise",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\SocialMediaExcercise\\SocialMediaExcercise\\wwwroot\\",
+      "BasePath": "_content/SocialMediaExcercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\SocialMediaExcercise\\SocialMediaExcercise\\wwwroot\\StyleSheet.css",
+      "SourceId": "SocialMediaExcercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\SocialMediaExcercise\\SocialMediaExcercise\\wwwroot\\",
+      "BasePath": "_content/SocialMediaExcercise",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

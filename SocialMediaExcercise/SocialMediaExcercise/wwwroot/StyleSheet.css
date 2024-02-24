@@ -1,0 +1,13 @@
+﻿.socials{
+    display: flex;
+}
+.box{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 20px 20px 20px 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
