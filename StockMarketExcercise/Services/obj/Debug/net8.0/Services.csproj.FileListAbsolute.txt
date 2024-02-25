@@ -1,0 +1,16 @@
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\bin\Debug\net8.0\Services.dll
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.sourcelink.json
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.dll
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\Another\Desktop\Programming\C# TRAINING\ASP.NET-Core-Course\StockMarketExcercise\Services\obj\Debug\net8.0\ref\Services.dll

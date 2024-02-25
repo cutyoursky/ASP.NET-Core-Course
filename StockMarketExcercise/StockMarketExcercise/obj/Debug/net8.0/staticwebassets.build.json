@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ePoRvh4GbB0zTkzBry02yjTK/Mx8h3uNZhHBIwT1VV4=",
+  "Source": "StockMarketExcercise",
+  "BasePath": "_content/StockMarketExcercise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockMarketExcercise\\wwwroot",
+      "Source": "StockMarketExcercise",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\",
+      "BasePath": "_content/StockMarketExcercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StockMarketExcercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\",
+      "BasePath": "_content/StockMarketExcercise",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
+      "SourceId": "StockMarketExcercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\",
+      "BasePath": "_content/StockMarketExcercise",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
