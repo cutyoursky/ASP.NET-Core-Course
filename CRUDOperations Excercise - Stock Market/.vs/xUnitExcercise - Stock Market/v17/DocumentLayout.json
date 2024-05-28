@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06717D9-0F4E-4B5F-A3C4-751AF5ABAED0}|xUnitExcercise - Stock Market\\Services\\Services.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06717D9-0F4E-4B5F-A3C4-751AF5ABAED0}|xUnitExcercise - Stock Market\\Services\\Services.csproj|solutionrelative:xunitexcercise - stock market\\services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06717D9-0F4E-4B5F-A3C4-751AF5ABAED0}|xUnitExcercise - Stock Market\\Services\\Services.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\services\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06717D9-0F4E-4B5F-A3C4-751AF5ABAED0}|xUnitExcercise - Stock Market\\Services\\Services.csproj|solutionrelative:xunitexcercise - stock market\\services\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|solutionrelative:xunitexcercise - stock market\\servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|solutionrelative:xunitexcercise - stock market\\servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|solutionrelative:xunitexcercise - stock market\\servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|solutionrelative:xunitexcercise - stock market\\servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06717D9-0F4E-4B5F-A3C4-751AF5ABAED0}|xUnitExcercise - Stock Market\\Services\\Services.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06717D9-0F4E-4B5F-A3C4-751AF5ABAED0}|xUnitExcercise - Stock Market\\Services\\Services.csproj|solutionrelative:xunitexcercise - stock market\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|solutionrelative:xunitexcercise - stock market\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F988A8-C611-44D2-BBAD-D8A989C5F4D7}|Entities\\Entities.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F988A8-C611-44D2-BBAD-D8A989C5F4D7}|Entities\\Entities.csproj|solutionrelative:entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDFA598-1C44-4109-8184-532236EDC64C}|StocksServiceTests\\StocksServiceTests.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\stocksservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDFA598-1C44-4109-8184-532236EDC64C}|StocksServiceTests\\StocksServiceTests.csproj|solutionrelative:stocksservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\stockmarket\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3D661D-C9E2-40DB-A36E-DFAB6FE92EFE}|xUnitExcercise - Stock Market\\StockMarket\\StockMarket.csproj|solutionrelative:xunitexcercise - stock market\\stockmarket\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F988A8-C611-44D2-BBAD-D8A989C5F4D7}|Entities\\Entities.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F988A8-C611-44D2-BBAD-D8A989C5F4D7}|Entities\\Entities.csproj|solutionrelative:entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\servicecontracts\\istocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|solutionrelative:xunitexcercise - stock market\\servicecontracts\\istocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\crudoperations excercise - stock market\\xunitexcercise - stock market\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8598CE47-2C21-4BDD-B27B-D9AEBBA2420C}|xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj|solutionrelative:xunitexcercise - stock market\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Another\\Desktop\\xUnitExcercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 575,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\TradingOptions.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\TradingOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:24:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Program.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Program.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:57:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\appsettings.json",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\appsettings.json",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\appsettings.json",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T22:20:31.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwCkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:58:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:46:36.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:01:58.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Orders.cshtml",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Orders.cshtml",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Orders.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:33:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksService.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\Services\\StocksService.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\Services\\StocksService.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\Services\\StocksService.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\Services\\StocksService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:03:30.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:18:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Controllers\\TradeController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:18:16.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:14:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:00:12.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\Services\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\Services\\FinnhubService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:02:49.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:01:14.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:32:23.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:33:04.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:33:05.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:56:58.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\StockTrade.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\StockTrade.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Models\\StockTrade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:19:33.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\xUnitExcercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\xUnitExcercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\xUnitExcercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\xUnitExcercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:11:51.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Entities\\BuyOrder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:40:38.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\StocksServiceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StocksServiceTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\StocksServiceTests\\UnitTest1.cs",
+              "RelativeToolTip": "StocksServiceTests\\UnitTest1.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAYwN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:09:07.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\StockMarket\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\StockMarket\\Properties\\launchSettings.json",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\StockMarket\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T22:22:42.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStocksService.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\IStocksService.cs",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\ServiceContracts\\IStocksService.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\IStocksService.cs",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\ServiceContracts\\IStocksService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:03:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "Entities\\SellOrder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:44:58.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\CRUDOperations Excercise - Stock Market\\xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "xUnitExcercise - Stock Market\\ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T20:44:41.144Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
