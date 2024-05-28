@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ConfigurationExcercise\\StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
       "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
     },
     {
-      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
+      "Id": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ConfigurationExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {

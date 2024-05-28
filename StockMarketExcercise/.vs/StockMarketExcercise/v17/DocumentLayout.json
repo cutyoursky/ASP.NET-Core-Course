@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A6F2A73-6385-4F08-BC57-5EDAD48846E0}|Services\\Services.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A6F2A73-6385-4F08-BC57-5EDAD48846E0}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A6F2A73-6385-4F08-BC57-5EDAD48846E0}|Services\\Services.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A6F2A73-6385-4F08-BC57-5EDAD48846E0}|Services\\Services.csproj|solutionrelative:services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +27,24 @@
       "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1AADB4-E6E5-44D8-8411-9045E6B47C35}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE1AADB4-E6E5-44D8-8411-9045E6B47C35}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE1AADB4-E6E5-44D8-8411-9045E6B47C35}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1AADB4-E6E5-44D8-8411-9045E6B47C35}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6F2A73-6385-4F08-BC57-5EDAD48846E0}|Services\\Services.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6A6F2A73-6385-4F08-BC57-5EDAD48846E0}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\stockmarketexcercise\\stockmarketexcercise\\stockmarketexcercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AB564933-839F-4384-9BE1-D8E9386A2FAC}|StockMarketExcercise\\StockMarketExcercise.csproj|solutionrelative:stockmarketexcercise\\stockmarketexcercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -70,67 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Program.cs",
-              "RelativeDocumentMoniker": "StockMarketExcercise\\Program.cs",
-              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Program.cs",
-              "RelativeToolTip": "StockMarketExcercise\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:31:45.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IFinnhubService.cs",
-              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\ServiceContracts\\IFinnhubService.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\IFinnhubService.cs",
-              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\ServiceContracts\\IFinnhubService.cs",
-              "RelativeToolTip": "ServiceContracts\\IFinnhubService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:49:16.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T20:50:58.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "StockMarketExcercise\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "StockMarketExcercise\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T20:49:09.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "StockMarketExcercise\\Views\\_ViewStart.cshtml",
@@ -138,38 +86,35 @@
               "RelativeToolTip": "StockMarketExcercise\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T20:49:55.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T20:49:55.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\Trade\\Index.cshtml",
               "RelativeDocumentMoniker": "StockMarketExcercise\\Views\\Trade\\Index.cshtml",
               "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\Trade\\Index.cshtml",
               "RelativeToolTip": "StockMarketExcercise\\Views\\Trade\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-24T20:48:50.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T20:48:50.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FinnhubService.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\Services\\FinnhubService.cs",
               "RelativeDocumentMoniker": "Services\\FinnhubService.cs",
               "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\Services\\FinnhubService.cs",
               "RelativeToolTip": "Services\\FinnhubService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA0AAAAfAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAhwC4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T20:01:16.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T20:01:16.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StockTrade.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Models\\StockTrade.cs",
               "RelativeDocumentMoniker": "StockMarketExcercise\\Models\\StockTrade.cs",
@@ -177,12 +122,11 @@
               "RelativeToolTip": "StockMarketExcercise\\Models\\StockTrade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T20:34:06.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T20:34:06.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TradingOptions.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\TradingOptions.cs",
               "RelativeDocumentMoniker": "StockMarketExcercise\\TradingOptions.cs",
@@ -190,12 +134,11 @@
               "RelativeToolTip": "StockMarketExcercise\\TradingOptions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T20:40:40.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T20:40:40.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\appsettings.json",
               "RelativeDocumentMoniker": "StockMarketExcercise\\appsettings.json",
@@ -203,51 +146,59 @@
               "RelativeToolTip": "StockMarketExcercise\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-24T20:39:54.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T20:39:54.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TradeController.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Controllers\\TradeController.cs",
               "RelativeDocumentMoniker": "StockMarketExcercise\\Controllers\\TradeController.cs",
               "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Controllers\\TradeController.cs",
               "RelativeToolTip": "StockMarketExcercise\\Controllers\\TradeController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCAAAAAMAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T19:32:40.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T19:32:40.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Program.cs",
+              "RelativeDocumentMoniker": "StockMarketExcercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Program.cs",
+              "RelativeToolTip": "StockMarketExcercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:31:45.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FinnhubScript.js",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
               "RelativeDocumentMoniker": "StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
               "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
               "RelativeToolTip": "StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-25T16:35:34.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T16:35:34.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
-              "RelativeDocumentMoniker": "StockMarketExcercise\\wwwroot\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
-              "RelativeToolTip": "StockMarketExcercise\\wwwroot\\StyleSheet.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-02-25T16:48:59.04Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:49:16.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Services.csproj",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\Services\\Services.csproj",
               "RelativeDocumentMoniker": "Services\\Services.csproj",
@@ -255,11 +206,60 @@
               "RelativeToolTip": "Services\\Services.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-24T20:08:13.624Z"
+              "WhenOpened": "2024-02-24T20:08:13.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T01:14:17.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StockMarketExcercise\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StockMarketExcercise\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T20:49:09.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StockMarketExcercise\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T20:50:58.522Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StockMarketExcercise\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "StockMarketExcercise\\wwwroot\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T16:48:59.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "StockMarketExcercise.csproj",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\StockMarketExcercise.csproj",
               "RelativeDocumentMoniker": "StockMarketExcercise\\StockMarketExcercise.csproj",

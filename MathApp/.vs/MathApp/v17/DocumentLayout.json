@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MathApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56451B02-EA87-4DBC-8FBA-E1D286A0EA54}|MathApp\\MathApp.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\mathapp\\mathapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56451B02-EA87-4DBC-8FBA-E1D286A0EA54}|MathApp\\MathApp.csproj|solutionrelative:mathapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MathApp\\MathApp\\Program.cs",
+              "RelativeDocumentMoniker": "MathApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\MathApp\\MathApp\\Program.cs",
+              "RelativeToolTip": "MathApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:10:04.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

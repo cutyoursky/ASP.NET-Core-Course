@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ePoRvh4GbB0zTkzBry02yjTK/Mx8h3uNZhHBIwT1VV4=",
+  "Hash": "CDu+Q4BdMJ/gkwaF0UlhAfkHO22QBMxZyWokSlvAfyg=",
   "Source": "StockMarketExcercise",
   "BasePath": "_content/StockMarketExcercise",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StockMarketExcercise\\wwwroot",
       "Source": "StockMarketExcercise",
-      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ConfigurationExcercise\\StockMarketExcercise\\wwwroot\\",
       "BasePath": "_content/StockMarketExcercise",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ConfigurationExcercise\\StockMarketExcercise\\wwwroot\\Scripts\\FinnhubScript.js",
       "SourceId": "StockMarketExcercise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ConfigurationExcercise\\StockMarketExcercise\\wwwroot\\",
       "BasePath": "_content/StockMarketExcercise",
       "RelativePath": "Scripts/FinnhubScript.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
     },
     {
-      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ConfigurationExcercise\\StockMarketExcercise\\wwwroot\\StyleSheet.css",
       "SourceId": "StockMarketExcercise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\StockMarketExcercise\\StockMarketExcercise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ConfigurationExcercise\\StockMarketExcercise\\wwwroot\\",
       "BasePath": "_content/StockMarketExcercise",
       "RelativePath": "StyleSheet.css",
       "AssetKind": "All",

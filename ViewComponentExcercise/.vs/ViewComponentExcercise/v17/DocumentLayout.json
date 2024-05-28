@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\viewcomponentexcercise\\viewcomponentexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\viewcomponentexcercise\\viewcomponentexcercise\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\viewcomponentexcercise\\viewcomponentexcercise\\viewcomponentexcercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\viewcomponentexcercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\viewcomponentexcercise\\viewcomponentexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\viewcomponentexcercise\\viewcomponentexcercise\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\viewcomponents\\cityviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\viewcomponentexcercise\\viewcomponentexcercise\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|c:\\users\\another\\desktop\\programming\\c# training\\asp.net-core-course\\viewcomponentexcercise\\viewcomponentexcercise\\views\\weather\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ABC3F6F2-8F1C-4DCF-9313-3D47299950E6}|ViewComponentExcercise\\ViewComponentExcercise.csproj|solutionrelative:viewcomponentexcercise\\views\\weather\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -58,28 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ViewComponentExcercise\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ViewComponentExcercise\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-31T16:50:37.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WeatherController.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Controllers\\WeatherController.cs",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\Controllers\\WeatherController.cs",
@@ -87,12 +70,11 @@
               "RelativeToolTip": "ViewComponentExcercise\\Controllers\\WeatherController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T16:38:17.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-31T16:38:17.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ViewComponentExcercise.csproj",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\ViewComponentExcercise.csproj",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\ViewComponentExcercise.csproj",
@@ -105,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\Shared\\Components\\City\\Default.cshtml",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\Views\\Shared\\Components\\City\\Default.cshtml",
@@ -117,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CityViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\ViewComponents\\CityViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\ViewComponents\\CityViewComponent.cs",
@@ -141,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\Views\\Shared\\_Layout.cshtml",
@@ -149,12 +131,11 @@
               "RelativeToolTip": "ViewComponentExcercise\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-31T16:52:46.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-31T16:52:46.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\wwwroot\\styles.css",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\wwwroot\\styles.css",
@@ -162,12 +143,11 @@
               "RelativeToolTip": "ViewComponentExcercise\\wwwroot\\styles.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-01-31T16:54:01.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-31T16:54:01.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Program.cs",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\Program.cs",
@@ -180,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\Views\\_ViewStart.cshtml",
@@ -188,12 +168,11 @@
               "RelativeToolTip": "ViewComponentExcercise\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-31T16:52:14.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-31T16:52:14.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Models\\City.cs",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\Models\\City.cs",
@@ -201,11 +180,24 @@
               "RelativeToolTip": "ViewComponentExcercise\\Models\\City.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T16:41:29.77Z"
+              "WhenOpened": "2024-01-31T16:41:29.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewComponentExcercise\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewComponentExcercise\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T16:50:37.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Another\\Desktop\\Programming\\C# TRAINING\\ASP.NET-Core-Course\\ViewComponentExcercise\\ViewComponentExcercise\\Views\\Weather\\Index.cshtml",
               "RelativeDocumentMoniker": "ViewComponentExcercise\\Views\\Weather\\Index.cshtml",
@@ -213,8 +205,7 @@
               "RelativeToolTip": "ViewComponentExcercise\\Views\\Weather\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-01-31T16:49:01.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-31T16:49:01.496Z"
             }
           ]
         }
