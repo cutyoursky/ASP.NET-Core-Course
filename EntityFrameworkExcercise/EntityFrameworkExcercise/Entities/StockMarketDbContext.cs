@@ -22,10 +22,5 @@ namespace Entities
             modelBuilder.Entity<BuyOrder>().ToTable(nameof(BuyOrders));
             modelBuilder.Entity<SellOrder>().ToTable(nameof(SellOrders));
         }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=StockMarket;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
-        }
     }
 }
